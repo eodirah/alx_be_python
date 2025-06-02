@@ -6,7 +6,8 @@ length = 10
 width = 5
 
 #formula for calculating area of rectangle
-Area = length * width
+
+area = length * width
 
 #print result in console
-print(f"The area of the rectangle is :{Area}.")
+print(f"The area of the rectangle is :{area}.")

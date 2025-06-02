@@ -2,9 +2,9 @@
 
 #value declaration
 
-principal = P  = 1000
-rate = R = 0.05
-time = R =  3
+principal = 1000
+rate =  0.05
+time =  3
 
 #asign value to the result simple interest as interest
 
